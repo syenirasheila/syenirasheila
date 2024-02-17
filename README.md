@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Syenira.
-Thanks for visiting my profile😄
+Thanks for visiting my profile😊
 
 <details>
 <summary>
@@ -15,7 +15,7 @@ Thanks for visiting my profile😄
 - 📱 &nbsp; Currently learning mobile development.
 - 🖼️ &nbsp; Kind of a visual person.
 
-## 📊 & nbsp; My Stats
+## 📊 &nbsp; My Stats
 <p>
 <a href="https://github.com/syenirasheila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syenirasheila&show_icons=true&theme=dark" />
