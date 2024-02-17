@@ -19,7 +19,6 @@ Thanks for visiting my profile😊
 <p>
 <a href="https://github.com/syenirasheila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syenirasheila&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syenirasheila&theme=dark&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
