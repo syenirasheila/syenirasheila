@@ -18,7 +18,7 @@ Thanks for visiting my profile😊
 ## 📊 &nbsp; My Stats
 <p>
 <a href="https://github.com/syenirasheila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syenirasheila&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syenirasheila&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
 </p>
 
