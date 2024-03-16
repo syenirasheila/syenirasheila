@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-## I'm Syenira.
-Thanks for visiting my profile😊
+## I'm Syenira
 
 <details>
 <summary>
-  Get to know me!
+  Get to know me!😊
 </summary>
   
 ### 💻 &nbsp; About Me
