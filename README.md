@@ -2,6 +2,8 @@
 
 ## I'm Syenira
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <details>
 <summary>
   Get to know me!😊
@@ -26,6 +28,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/syenirasheila"><img src="https://img.shields.io/badge/-Syenira%20Sheila-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:syenirasheilawork@gmail.com"><img src="https://img.shields.io/badge/-syenirasheilawork@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+  
 <!--
 **syenirasheila/syenirasheila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
